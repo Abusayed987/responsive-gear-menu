@@ -83,6 +83,7 @@ button{
 .section02 .collection-main {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    place-items: center;
 }
 .section02 .collection-main .collection{
     width: 300px;
